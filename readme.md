@@ -72,10 +72,11 @@ The app provides the following functionalities:
 - **Visualization:** matplotlib, seaborn
 - **Model Tracking & Deployment:** MLflow, Streamlit
 
-© 2025 MuraliKrishnaGR. All rights reserved.
-
 
 ---
 
 ## **Conclusion**
 This project combines regression, classification, and clustering techniques with interactive tools to provide actionable insights. E-commerce businesses can use these findings to enhance customer experience, optimize product pricing, and increase conversions.
+
+© 2025 MuraliKrishnaGR. All rights reserved.
+
