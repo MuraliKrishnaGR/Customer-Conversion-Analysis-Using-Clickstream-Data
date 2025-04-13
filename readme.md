@@ -72,6 +72,9 @@ The app provides the following functionalities:
 - **Visualization:** matplotlib, seaborn
 - **Model Tracking & Deployment:** MLflow, Streamlit
 
+© 2025 MuraliKrishnaGR. All rights reserved.
+
+
 ---
 
 ## **Conclusion**
